@@ -192,3 +192,4 @@
   window.addEventListener("load", initSwiper);
 
 })();
+
